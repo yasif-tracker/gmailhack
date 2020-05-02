@@ -7,7 +7,7 @@
 ### to ack victim account.Brute force attack is the only successful method to hack account
 ### but this process will take long time depend upon the length of password.
 
-### git clone https://github.com/Ha3MrX/Gemail-Hack
+### git clone https://github.com/yasif-tracker/gmailhack
     
 ### cd Gemail-Hack
 
@@ -21,9 +21,9 @@
 
 ### YouTube Channel
 
-https://www.youtube.com/c/HA-MRX
+https://www.youtube.com/YasifTech
 
 ### Video Tutorial
 
-https://www.youtube.com/watch?v=CZwNK6fOqEI&t=37s
+https://www.youtube.com/
 
