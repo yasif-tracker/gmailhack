@@ -1,19 +1,19 @@
 #!/usr/bin/python
-'''create by Ha3MrX'''
+'''create by Ⲩⲁ𝛓1𝓯'''
 
 import smtplib
 from os import system
 
 def main():
    print '================================================='
-   print '               create by Ha3MrX                  '
+   print '               create by 🆈🅰🆂1🅵                 '
    print '================================================='
    print '               ++++++++++++++++++++              '
    print '\n                                               '
    print '  _,.                                            '
    print '                                                 '
    print '                                                 '
-   print '           HA3MrX                                '
+   print '    create by 🆈🅰🆂1🅵                                  '
    print '       _,.                   '
    print '     ,` -.)                  '
    print '    ( _/-\\-._               '
